@@ -1,3 +1,2 @@
 # Quiz-App
-#A JavaScript quizz application that asks users  random  questions and gives  the  chance to try and find the right answer from the given choices within the stipulated time as they advance towards more complex questions
- general knowledge
+#A JavaScript quizz application that asks users  random general   questions and gives  the  chance to try and find the right answer from the given choices within the stipulated time as they advance towards more complex questions
